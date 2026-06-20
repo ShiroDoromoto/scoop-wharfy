@@ -1,16 +1,16 @@
 {
-  "version": "0.3.0",
+  "version": "0.4.0",
   "homepage": "https://github.com/ShiroDoromoto/wharfy",
   "license": "AGPL-3.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/ShiroDoromoto/wharfy/releases/download/v0.3.0/wharfy_0.3.0_windows_amd64.zip",
-      "hash": "1cde575c9b7a5112e7a6ad952b89c13db4e4bb18cb8dbae99057ef68e06eaf79",
+      "url": "https://github.com/ShiroDoromoto/wharfy/releases/download/v0.4.0/wharfy_0.4.0_windows_amd64.zip",
+      "hash": "88b95643a7557cce18436866787991e7ca4b859f87f75e8db0f95de593211716",
       "bin": "wharfy.exe"
     },
     "arm64": {
-      "url": "https://github.com/ShiroDoromoto/wharfy/releases/download/v0.3.0/wharfy_0.3.0_windows_arm64.zip",
-      "hash": "eb1adc826447af1a4f6779747fb5ee7c55d123a8e276b710e5643d6170a3b1af",
+      "url": "https://github.com/ShiroDoromoto/wharfy/releases/download/v0.4.0/wharfy_0.4.0_windows_arm64.zip",
+      "hash": "6bc5f4909af219c47c3e624fbd0e6312a8bc11d77d16a6341b079fd4acb997f4",
       "bin": "wharfy.exe"
     }
   },
